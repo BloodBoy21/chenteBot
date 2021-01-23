@@ -3,7 +3,7 @@ from discord.ext import commands
 from modules import phSearch as ph
 from modules import saveData as SaDa
 
-token = 'NzY4NjQ3MTEzNDU4MzE5Mzkw.X5DgaA.yri9LQwlr47SS4TrlvMzmBzP0eg'
+token = 'YOUR_TOKEN'
 prefijo = '**'
 adminUser = "Demon slayer"
 
