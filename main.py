@@ -147,11 +147,6 @@ async def help(ctx) :
 	embed.add_field(name='#clear',
 	                value='Limpir el chat',
 	                inline=False)
-	# embed.add_field(name='Donate',
-	#                 value='You can donate to maintain the bot  server\nhttps://paypal.me/death2703',
-	#                 inline=True
-	#                 )
-
 	await ctx.send(embed=embed)
 
 
